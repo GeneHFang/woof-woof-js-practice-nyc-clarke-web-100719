@@ -21,7 +21,7 @@
     {
       "id": 4,
       "name": "Buttercup",
-      "isGoodDog": false,
+      "isGoodDog": true,
       "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_4.jpg"
     },
     {
